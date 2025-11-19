@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "21d37e997ec210200b4a99ab1884d499a831bed31eec81d0c13a1359a5553f43",
+    "uid": "JWT21S527",
+    "map": "speedrun_mnogostrafe2",
+    "category": 12,
+    "time": 6982,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T17:58:47.000Z",
+    "zipFilename": "00006982_STEAM_0_1_796767048_20251119-175847.zip",
+    "path": "speedrun_mnogostrafe2/00006982_STEAM_0_1_796767048_20251119-175847.zip",
+    "archivedAt": "2025-11-19T18:00:20.775Z"
+  },
+  {
     "demFileHash": "d1157c07781aabcdd0b4a7c01187c49e31a6defbb4425357d9798c9be3cf29f1",
     "uid": "FOE7V1S89",
     "map": "speedrun_chemical",
