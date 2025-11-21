@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "0c467292d83a03ea66f227551a43a290acf0ae8399ff2a9b93d1c459c8495c3d",
+    "uid": "UN27E7D3O",
+    "map": "speedrun_grasz_final",
+    "category": 12,
+    "time": 4032,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-21T14:14:59.000Z",
+    "zipFilename": "00004032_STEAM_0_1_796767048_20251121-141459.zip",
+    "path": "speedrun_grasz_final/00004032_STEAM_0_1_796767048_20251121-141459.zip",
+    "archivedAt": "2025-11-21T18:00:18.671Z"
+  },
+  {
     "demFileHash": "66d3d4de3b402c9b202a552878ac1ab72f5a600727d83d14da6b49e5a36fcc90",
     "uid": "MNIFPWPXL",
     "map": "speedrun_1000fps_battle",
