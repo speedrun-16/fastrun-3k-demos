@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "66d3d4de3b402c9b202a552878ac1ab72f5a600727d83d14da6b49e5a36fcc90",
+    "uid": "MNIFPWPXL",
+    "map": "speedrun_1000fps_battle",
+    "category": 12,
+    "time": 2328,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-20T19:50:49.000Z",
+    "zipFilename": "00002328_STEAM_0_1_796767048_20251120-195049.zip",
+    "path": "speedrun_1000fps_battle/00002328_STEAM_0_1_796767048_20251120-195049.zip",
+    "archivedAt": "2025-11-21T00:00:18.769Z"
+  },
+  {
     "demFileHash": "21d37e997ec210200b4a99ab1884d499a831bed31eec81d0c13a1359a5553f43",
     "uid": "JWT21S527",
     "map": "speedrun_mnogostrafe2",
