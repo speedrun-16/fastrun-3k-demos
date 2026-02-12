@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d4a79934d4e8800e8143039858425bbcbfecfd473ce07fd05e0c431ad5cc9263",
+    "uid": "LBJDRQBPC",
+    "map": "deathrun_astro",
+    "category": 12,
+    "time": 1234,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-02-12T10:34:34.000Z",
+    "zipFilename": "00001234_STEAM_0_1_926467834_20260212-103434.zip",
+    "path": "deathrun_astro/00001234_STEAM_0_1_926467834_20260212-103434.zip",
+    "archivedAt": "2026-02-12T12:00:00.248Z"
+  },
+  {
     "demFileHash": "67a43a6cf3fe79364c664f1f2cdf4cfa7486617a9d2fe6f01772ba2dd118a773",
     "uid": "3Q3A0PERN",
     "map": "speedrun_record",
