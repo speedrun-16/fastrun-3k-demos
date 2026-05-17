@@ -11,6 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-11-21 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
@@ -23,5 +24,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **13**
-- Total Demos: **14**
+- Total Maps: **14**
+- Total Demos: **15**
