@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [deathrun_astro](./deathrun_astro) | 1 | 2026-02-12 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2026-05-12 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2026-06-01 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-11-21 |
@@ -25,4 +25,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **14**
-- Total Demos: **15**
+- Total Demos: **16**
