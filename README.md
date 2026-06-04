@@ -7,6 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [deathrun_astro](./deathrun_astro) | 1 | 2026-02-12 |
+| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2026-06-01 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
@@ -14,15 +15,16 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
-| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
+| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2026-05-10 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
+| [speedrun_tr](./speedrun_tr) | 1 | 2026-06-04 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-10 |
 
 ---
 
 ### Statistics
-- Total Maps: **14**
-- Total Demos: **16**
+- Total Maps: **16**
+- Total Demos: **19**
