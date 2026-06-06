@@ -20,11 +20,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
+| [speedrun_toni](./speedrun_toni) | 1 | 2026-06-05 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2026-06-04 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-10 |
 
 ---
 
 ### Statistics
-- Total Maps: **16**
-- Total Demos: **19**
+- Total Maps: **17**
+- Total Demos: **20**
