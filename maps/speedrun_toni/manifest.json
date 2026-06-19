@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_toni",
+  "updatedAt": "2026-06-19T06:02:16.087415Z",
+  "runs": [
+    {
+      "uid": "SVHQ5COXX",
+      "rid": 61238,
+      "hash": "f77d5735a0b8c247fd981d7021eb4cd792b4c02637b34cdc7fc2805f1f95d6fa",
+      "t": 3461,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-05T18:26:12Z",
+      "zip": "00003461_STEAM_0_1_87291981_20260605-182612.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260605-#SVHQ5COXX.analysis.json",
+          "off": 77,
+          "size": 120042
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260605-#SVHQ5COXX.dem",
+          "off": 120186,
+          "size": 50752
+        },
+        {
+          "type": "replay",
+          "name": "61238.replay.xz",
+          "off": 170983,
+          "size": 11276
+        }
+      ]
+    }
+  ]
+}

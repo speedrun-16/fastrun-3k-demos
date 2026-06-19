@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_grasz_final",
+  "updatedAt": "2026-06-19T06:02:16.087415Z",
+  "runs": [
+    {
+      "uid": "UN27E7D3O",
+      "rid": 16684,
+      "hash": "0c467292d83a03ea66f227551a43a290acf0ae8399ff2a9b93d1c459c8495c3d",
+      "t": 4032,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-21T14:14:59Z",
+      "zip": "00004032_STEAM_0_1_796767048_20251121-141459.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_grasz_final-20251121-#UN27E7D3O.analysis.json",
+          "off": 84,
+          "size": 122527
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_grasz_final-20251121-#UN27E7D3O.dem",
+          "off": 122685,
+          "size": 62871
+        },
+        {
+          "type": "replay",
+          "name": "16684.replay.xz",
+          "off": 185601,
+          "size": 11948
+        }
+      ]
+    }
+  ]
+}

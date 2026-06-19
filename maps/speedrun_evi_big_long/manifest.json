@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_evi_big_long",
+  "updatedAt": "2026-06-19T06:02:16.087415Z",
+  "runs": [
+    {
+      "uid": "0WID8Z98E",
+      "rid": 305,
+      "hash": "2e21c31fdecb3704d0e30023fb2870a2004db69e489db6feb0ce39c0bed798a2",
+      "t": 25448,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-14T13:36:11Z",
+      "zip": "00025448_STEAM_0_1_771348382_20250914-133611.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_evi_big_long-20250914-#0WID8Z98E.analysis.json",
+          "off": 85,
+          "size": 503966
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_evi_big_long-20250914-#0WID8Z98E.dem",
+          "off": 504126,
+          "size": 204332
+        },
+        {
+          "type": "replay",
+          "name": "305.replay.xz",
+          "off": 708501,
+          "size": 46372
+        }
+      ]
+    }
+  ]
+}
