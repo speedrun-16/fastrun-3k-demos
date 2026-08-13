@@ -6,9 +6,9 @@ Map-level archive directory for the 3K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 18 |
-| Archived PBs | 21 |
-| Latest Update | 2026-06-07 |
+| Maps | 19 |
+| Archived PBs | 22 |
+| Latest Update | 2026-08-13 |
 
 ## Structure
 
