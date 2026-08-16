@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_20min",
+  "updatedAt": "2026-08-16T18:00:11.979Z",
+  "runs": [
+    {
+      "uid": "CURQPHYQ4",
+      "rid": 82998,
+      "hash": "9b8e773104ee2c4e14f4733738fcf1634eece6d7ec74b55666e0609b2375585c",
+      "t": 1742,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-16T14:04:40.000Z",
+      "zip": "00001742_STEAM_0_1_87291981_20260816-140440.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_20min-20260816-#CURQPHYQ4.dem",
+          "off": 68,
+          "size": 37951
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_20min-20260816-#CURQPHYQ4.analysis.json",
+          "off": 38097,
+          "size": 58367
+        },
+        {
+          "type": "replay",
+          "name": "82998.replay.xz",
+          "off": 96509,
+          "size": 5964
+        }
+      ]
+    }
+  ]
+}
