@@ -1,7 +1,7 @@
 {
   "category": 12,
   "categoryName": "3K Run",
-  "updatedAt": "2026-08-16T18:00:11.979Z",
+  "updatedAt": "2026-11-16T18:00:17.618Z",
   "maps": {
     "speedrun_pupsik": {
       "n": 1,
@@ -104,6 +104,12 @@
       "best": 2288,
       "at": "2026-01-29T13:37:55Z",
       "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 1,
+      "best": 10347,
+      "at": "2026-11-16T17:14:02.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_chemical": {
       "n": 1,
