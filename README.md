@@ -7,8 +7,8 @@ Personal best demo archive for the 3K Run category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 21 |
-| Archived PBs | 24 |
-| Latest Update | 2026-11-16 |
+| Archived PBs | 25 |
+| Latest Update | 2026-11-22 |
 
 ## Structure
 
